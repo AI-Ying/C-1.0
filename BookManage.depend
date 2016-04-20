@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1434788303 source:c:\users\ai\desktop\bookmanage\account.cpp
+	"Account.h"
+
+1434788303 c:\users\ai\desktop\bookmanage\account.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1434808304 c:\users\ai\desktop\bookmanage\main.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<windows.h>
+
+1434788303 source:c:\users\ai\desktop\bookmanage\book.cpp
+	"Book.h"
+
+1434807694 c:\users\ai\desktop\bookmanage\book.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1434791152 source:c:\users\ai\desktop\bookmanage\catalog.cpp
+	"Catalog.h"
+
+1434793423 c:\users\ai\desktop\bookmanage\catalog.h
+	"Main.h"
+
+1434806555 source:c:\users\ai\desktop\bookmanage\circulate.cpp
+	"Circulate.h"
+
+1434802915 c:\users\ai\desktop\bookmanage\circulate.h
+	"Main.h"
+	"Reader.h"
+	"Book.h"
+
+1434788303 c:\users\ai\desktop\bookmanage\reader.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1434788303 source:c:\users\ai\desktop\bookmanage\main.cpp
+	"Main.h"
+	"Menu.h"
+
+1434788303 c:\users\ai\desktop\bookmanage\menu.h
+
+1434808491 source:c:\users\ai\desktop\bookmanage\menu.cpp
+	"Main.h"
+	"Menu.h"
+	"Reader.h"
+	"Book.h"
+	"Account.h"
+	"Catalog.h"
+	"Circulate.h"
+
+1434788303 source:c:\users\ai\desktop\bookmanage\reader.cpp
+	"Reader.h"
+
+1434808515 source:c:\users\ai\desktop\bookmanage\color.cpp
+	"Color.h"
+
+1434808260 c:\users\ai\desktop\bookmanage\color.h
+	"Main.h"
+
+1435089268 source:f:\c++\bookmanage3\account.cpp
+	"Account.h"
+
+1435089268 f:\c++\bookmanage3\account.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 f:\c++\bookmanage3\main.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<windows.h>
+
+1435090737 source:f:\c++\bookmanage3\book.cpp
+	"Book.h"
+
+1435090737 f:\c++\bookmanage3\book.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435098364 source:f:\c++\bookmanage3\catalog.cpp
+	"Catalog.h"
+
+1435090737 f:\c++\bookmanage3\catalog.h
+	"Main.h"
+
+1435090737 source:f:\c++\bookmanage3\circulate.cpp
+	"Circulate.h"
+
+1435090737 f:\c++\bookmanage3\circulate.h
+	"Main.h"
+	"Reader.h"
+	"Book.h"
+
+1435090737 f:\c++\bookmanage3\reader.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 source:f:\c++\bookmanage3\color.cpp
+	"Color.h"
+
+1435090737 f:\c++\bookmanage3\color.h
+	"Main.h"
+
+1435090737 source:f:\c++\bookmanage3\main.cpp
+	"Main.h"
+	"Menu.h"
+
+1435090737 f:\c++\bookmanage3\menu.h
+
+1435095773 source:f:\c++\bookmanage3\menu.cpp
+	"Main.h"
+	"Menu.h"
+	"Reader.h"
+	"Book.h"
+	"Account.h"
+	"Catalog.h"
+	"Circulate.h"
+	"Color.h"
+
+1435090737 source:f:\c++\bookmanage3\reader.cpp
+	"Reader.h"
+
+1435089268 source:f:\c++\c++大作业\bookmanage\account.cpp
+	"Account.h"
+
+1435089268 f:\c++\c++大作业\bookmanage\account.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 f:\c++\c++大作业\bookmanage\main.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<windows.h>
+
+1435090737 source:f:\c++\c++大作业\bookmanage\book.cpp
+	"Book.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\book.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435098364 source:f:\c++\c++大作业\bookmanage\catalog.cpp
+	"Catalog.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\catalog.h
+	"Main.h"
+
+1435090737 source:f:\c++\c++大作业\bookmanage\circulate.cpp
+	"Circulate.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\circulate.h
+	"Main.h"
+	"Reader.h"
+	"Book.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\reader.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 source:f:\c++\c++大作业\bookmanage\color.cpp
+	"Color.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\color.h
+	"Main.h"
+
+1435090737 source:f:\c++\c++大作业\bookmanage\main.cpp
+	"Main.h"
+	"Menu.h"
+
+1435090737 f:\c++\c++大作业\bookmanage\menu.h
+
+1435095773 source:f:\c++\c++大作业\bookmanage\menu.cpp
+	"Main.h"
+	"Menu.h"
+	"Reader.h"
+	"Book.h"
+	"Account.h"
+	"Catalog.h"
+	"Circulate.h"
+	"Color.h"
+
+1435090737 source:f:\c++\c++大作业\bookmanage\reader.cpp
+	"Reader.h"
+
+1435089268 source:f:\c++\图书管理系统\c++大作业\bookmanage\account.cpp
+	"Account.h"
+
+1435089268 f:\c++\图书管理系统\c++大作业\bookmanage\account.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\main.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<windows.h>
+
+1435090737 source:f:\c++\图书管理系统\c++大作业\bookmanage\book.cpp
+	"Book.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\book.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435098364 source:f:\c++\图书管理系统\c++大作业\bookmanage\catalog.cpp
+	"Catalog.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\catalog.h
+	"Main.h"
+
+1435090737 source:f:\c++\图书管理系统\c++大作业\bookmanage\circulate.cpp
+	"Circulate.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\circulate.h
+	"Main.h"
+	"Reader.h"
+	"Book.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\reader.h
+	"Main.h"
+	<vector>
+	<algorithm>
+
+1435090737 source:f:\c++\图书管理系统\c++大作业\bookmanage\color.cpp
+	"Color.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\color.h
+	"Main.h"
+
+1435090737 source:f:\c++\图书管理系统\c++大作业\bookmanage\main.cpp
+	"Main.h"
+	"Menu.h"
+
+1435090737 f:\c++\图书管理系统\c++大作业\bookmanage\menu.h
+
+1435095773 source:f:\c++\图书管理系统\c++大作业\bookmanage\menu.cpp
+	"Main.h"
+	"Menu.h"
+	"Reader.h"
+	"Book.h"
+	"Account.h"
+	"Catalog.h"
+	"Circulate.h"
+	"Color.h"
+
+1435090737 source:f:\c++\图书管理系统\c++大作业\bookmanage\reader.cpp
+	"Reader.h"
+
